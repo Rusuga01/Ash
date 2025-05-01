@@ -172,8 +172,8 @@ contact:
   title: "Contact Junior"
     
   image:
-    x: "img/who-am-i/me2.jpg"
-    _2x: "img/who-am-i/me2.jpg"
+    x: "img/who-am-i/555.jpg"
+    _2x: "img/who-am-i/555.jpg"
     
   button:
     icon: "icon-mail-fill"
